@@ -1,0 +1,25 @@
+
+#apropos{
+	background-color: #52341210;
+	margin-top: 60px;  margin-left: 
+	130px; margin-right: 100px; width: 80%;
+}
+
+#imageapropos{
+	float: right; width: 100%; height: 100%;
+}
+#texte{
+	margin-top: 100px; display: block; 
+}
+p{
+	font-family: Roboto condensed;
+	line-height: 30px; 
+	color: #523412;
+	
+}
+
+h1{
+	font-family: 'Montserrat'; 
+	color: #523412; 
+	font-weight: bold;
+}
